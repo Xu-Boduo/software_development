@@ -1,2 +1,2 @@
-# code coverage tutorial
-This file contains some examples of code coverage.
+# software_development
+This repository mainly stores tutorials needed for software development.
